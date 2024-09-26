@@ -1,17 +1,75 @@
-# TradingView Premium | Sеtuр | *CLICK ON PICTURE
+# Github User Search
 
-[![download_click](https://www.kemhan.go.id/ropeg/wp-content/uploads/2022/11/download_oib-2048x464.png)](https://reserve.m177.tech/sosipensil)
+## Objective:
+Develop a Xamarin Forms app, to search for Git hub users and show associated repositories. 
+## Structure of application. 
 
-## Password: tradingview
 
-## Hоw tо dоwnlоаd:
-1. Ореn thе TradingView.rar
-2. Enter Password: tradingview
-3. Open TradingView+ before KeyGen+
-4. Intall Tradingview
-5. Run
+1. Used [Refit](https://github.com/reactiveui/refit) for http calls.
 
-## Оvеrviеw
+2. For application structure I have used [Prism](https://github.com/PrismLibrary/Prism) strickly throughout the application. 
 
-![1](https://user-images.githubusercontent.com/83391859/239245881-308a29a2-2d22-4668-afc4-bb5e68fbb302.jpg)
+3. Used [FFImageLoading](https://github.com/luberda-molinet/FFImageLoading) Library for images. 
 
+4. Used [Font Awesome](https://fontawesome.com/) for font icons. 
+
+5. [Acr.Dialog](https://github.com/aritchie/userdialogs) library is being used for showing alerts and dialog
+
+
+## Application Functionalities:
+
+
+1. App is asking for any github user. 
+
+
+<div class="center">
+    <image class="center" src="Screenshoots/IOS/2020-04-22_11-51-55-PM.png" width="250" />
+    <image class="center" src="Screenshoots/Android/Screenshot_1587592030.png" width="250" />
+</div>
+
+
+2. See all the repositories. 
+
+
+<div class="center">
+    <image class="center" src="Screenshoots/IOS/2020-04-22_11-52-04-PM.png" width="250" />
+    <image class="center" src="Screenshoots/Android/Screenshot_1587592042.png" width="250" />
+</div>
+
+3. Menu page:
+
+
+<div class="center">
+    <image class="center" src="Screenshoots/IOS/2020-04-22_11-52-11-PM.png" width="250" />
+    <image class="center" src="Screenshoots/Android/Screenshot_1587592047.png" width="250" />
+</div>
+
+
+4. See user details:
+
+
+<div class="center">
+    <image class="center" src="Screenshoots/IOS/2020-04-22_11-52-16-PM.png" width="250" />
+    <image class="center" src="Screenshoots/Android/Screenshot_1587592054.png" width="250" />
+</div>
+
+
+5. See repository details:
+
+
+<div class="center">
+    <image class="center" src="Screenshoots/IOS/2020-04-22_11-52-23-PM.png" width="250" />
+    <image class="center" src="Screenshoots/Android/Screenshot_1587592066.png" width="250" />
+</div>
+
+
+6. App Icon:
+
+
+<div class="center">
+    <image class="center" src="Screenshoots/IOS/2020-04-22_11-54-24-PM.png" width="250" />
+    <image class="center" src="Screenshoots/Android/Screenshot_1587592571.png" width="250" />
+</div>
+
+
+##### NOTE: This app is solely created for demo purposes to acheive above objective. You can use it as starting point of your project. Ping me if you are not able to understand anything.  
